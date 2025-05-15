@@ -1,0 +1,14 @@
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/HabitTrackerAppApplication.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/config/SecurityConfig.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/controllers/AuthController.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/controllers/UserController.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/models/Habit.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/models/HabitTracking.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/models/Reminder.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/models/Streak.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/models/User.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/repositories/UserRepository.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/security/CustomUserDetails.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/services/RegistrationService.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/services/UserService.java
+/Users/shadiyarnassyrkhan/IdeaProjects/Habit_Tracker_App/src/main/java/com/example/Habit_Tracker_App/utils/UserValidator.java
